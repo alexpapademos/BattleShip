@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/home/alex/Desktop/ergasia_java_2023/BattleShip_2022201600134/src/battleship/Ship.java</file>
+            <file>file:/home/alex/Desktop/ergasia_java_2023/BattleShip_2022201600134/src/battleship/BattleShip.java</file>
+            <file>file:/home/alex/Desktop/ergasia_java_2023/BattleShip_2022201600134/src/battleship/ShipDirection.java</file>
+            <file>file:/home/alex/Desktop/ergasia_java_2023/BattleShip_2022201600134/src/battleship/Command.java</file>
+            <file>file:/home/alex/Desktop/ergasia_java_2023/BattleShip_2022201600134/src/battleship/MoveIsCommandException.java</file>
+            <file>file:/home/alex/Desktop/ergasia_java_2023/BattleShip_2022201600134/src/battleship/Submarine.java</file>
+            <file>file:/home/alex/Desktop/ergasia_java_2023/BattleShip_2022201600134/src/battleship/ComputerPlayer.java</file>
+            <file>file:/home/alex/Desktop/ergasia_java_2023/BattleShip_2022201600134/src/battleship/Destroyer.java</file>
+            <file>file:/home/alex/Desktop/ergasia_java_2023/BattleShip_2022201600134/src/battleship/Game.java</file>
+            <file>file:/home/alex/Desktop/ergasia_java_2023/BattleShip_2022201600134/src/battleship/AircraftCarrier.java</file>
+            <file>file:/home/alex/Desktop/ergasia_java_2023/BattleShip_2022201600134/src/battleship/InvalidLocationException.java</file>
+            <file>file:/home/alex/Desktop/ergasia_java_2023/BattleShip_2022201600134/src/battleship/Player.java</file>
+            <file>file:/home/alex/Desktop/ergasia_java_2023/BattleShip_2022201600134/src/battleship/HumanPlayer.java</file>
+            <file>file:/home/alex/Desktop/ergasia_java_2023/BattleShip_2022201600134/src/battleship/Location.java</file>
+            <file>file:/home/alex/Desktop/ergasia_java_2023/BattleShip_2022201600134/src/battleship/Field.java</file>
+        </group>
+    </open-files>
+</project-private>
