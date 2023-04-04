@@ -10,7 +10,4 @@ public class AircraftCarrier extends Ship {
     public String getSinkMessage(){
         return "An aircraft carrier is sinking!";
     }
-     /* public String getHitMessage(){
-        return "A aircraftcarrier is hitted!";
-    }*/
 }
